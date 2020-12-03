@@ -49,6 +49,8 @@ the above tutorial is abit imprecise on how to integrate the model in the app. H
 To run the SeeFish_1_0 on this app, the model need to be added to the the 'Model' folder (please remove the existing ones).
 than in the 'ModelDataHandler.swift' replace the nammes of the files as shown below
 
+Img/Screen Shot 2020-12-03 at 2.10.29 PM.png
+
 # Build the app and enjoy it!
 
 # Some screen shot of the app in action
