@@ -47,12 +47,17 @@ the output of this process is 'ImageClassification.xcworkspace' file that can be
 the above tutorial is abit imprecise on how to integrate the model in the app. Here following is how I did it.
 
 To run the SeeFish_1_0 on this app, the model need to be added to the the 'Model' folder (please remove the existing ones).
-than in the 'ModelDataHandler.swift' replace the nammes of the files as shown below
 
-Img/Screen Shot 2020-12-03 at 2.10.29 PM.png
+Than in the 'ModelDataHandler.swift' replace the nammes of the files as shown below
+
+https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/Screen%20Shot%202020-12-03%20at%202.10.29%20PM.png?raw=true
 
 # Build the app and enjoy it!
 
 # Some screen shot of the app in action
+
+https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/IMG_0008.PNG?raw=true
+https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/IMG_0010.PNG?raw=true
+https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/IMG_0013.PNG?raw=true
 
 
