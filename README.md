@@ -1,6 +1,6 @@
 # SeeFish iPhone app 
 
-iOs app to recognize more than 400 tropical fishes species while scuba diving, using GCP AutoMLmVision/TFLite/Xcode framework.
+iOS app to recognize more than 400 tropical fishes species while scuba diving, using GCP AutoMLmVision/TFLite/Xcode framework.
 
 ## Overview
 
