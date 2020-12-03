@@ -16,7 +16,7 @@ The app is TFLite sample app.
 
 # Dataset
 
-The dataset used is a subset of about 500 species extracted from the wildifsh dataset (1000 species total). The species chosen do not represent the totality of the tropical fish species, but the most common ones. Three species of jellyfish were added to the dataset and were retrieved form the xxx dataset.
+The dataset used is a subset of about 500 species extracted from the WildiFish dataset (1000 species total) (1). The species chosen do not represent the totality of the tropical fish species, but the most common ones. Three species of jellyfish were added to the dataset and were retrieved form the 'Jellyfish' dataset(2).
 
 The WildFish dataset did contain enough images for each class. To reach the number of images sufficient for the classification task, some images (up to 150 for each class) were obtained scraping the internet. 
 
@@ -60,3 +60,21 @@ https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/Screen%2
 https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/IMG_0008.PNG?raw=true
 https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/IMG_0010.PNG?raw=true
 https://github.com/vittorio-pepe/SeeFish-iPhone-app---462/blob/main/Img/IMG_0013.PNG?raw=true
+
+# Useful links
+
+The link to original datasets are here:
+
+https://github.com/PeiqinZhuang/WildFish
+
+https://zenodo.org/record/3545785#.X8lj5KpKh24
+
+# References for the datasets
+
+(1) WildFish dataset:
+Zhuang, Peiqin and Wang, Yali and Qiao, Yu,’ WildFish: A Large Benchmark for Fish Recognition in the Wild’, ACM Multimedia Conference on Multimedia Conference, 2018, p. 1301-1309.
+
+(2) Jellyfish dataset:
+Ruiz-Frau, Ana, Hintz, Hilmar and Jennings, Charlotte (2019, Nov 11) 'Jellyfish dataset', https://zenodo.org/record/3545785#.X8lj5KpKh24
+
+
